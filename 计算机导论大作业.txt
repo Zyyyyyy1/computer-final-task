@@ -1,0 +1,112 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>计算机导论大作业</title>
+               </head>
+<style type="text/css">
+		*{
+			padding: 0;
+			margin: 0;
+		}
+		.big_box{
+			height: 100vh;
+			background: url('https://img0.baidu.com/it/u=2961440434,3674522388&fm=253&fmt=auto&app=138&f=JPEG?w=750&h=422');
+			background-size: 100% 100%;
+		}
+</style>
+	<body>
+<div class="big_box">
+<h1>一丶计算机学科关系图</h1>
+<hr />
+<img src="055.jpg"/width="800px" height="500px">
+<h1>二丶我对计算机专业的认识</h1>
+<hr />
+<p><font size="4">首先谈到计算机专业，字面意思上就是一门学习计算机的专业。无外乎计算机是什么（构造组成，原理解析）？
+计算机有什么用（用以解决现实中存在的问题）？怎么更好的发挥计算机的作用？（优秀的算法能最大程度上提高解决问题的速率），
+所以通俗来讲，计算机专业就是一门了解并使用计算机解决问题的课程。</font></p>
+<p><font size="4"><font color="aqua" size="3">什么是计算机？就像它的名字，泛化来讲我理解的计算机就是进行运算的工具。</font>
+衡量计算机我们用反应速度，算力，内存容量，说白了就是反映计算机能算的多快，算的多强，算数规模有多大。计算的概念：处理输
+入的信息并转化为结果这个过程。所以计算机就是一台处理信息的机器，计算机的一切组成都是为了这个计算服务的。所以学习计算机
+就比较容易理解了。学习输入设备，输出设备就是学习怎么样把待处理的信息交给计算机的过程；学习cpu就是了解如何处理信息的过程；
+学习布尔运算是理解计算机进行基础运算的运算法则；进而我们想知道计算机怎么一步一步的完成运算，于是有了指令，进而学习程序，
+逐渐熟悉冯诺依曼结构体系，说白了，整个计算机的输入设备，输出设备，运算器，控制器，存储器是一个复杂的围绕计算问题的机器，                                                     
+不同于我们理解的计算，它所代表的计算是指处理问题的能力。</font></p>
+<p><font size="4"><font color="aqua" size="3">计算机有什么用？既然计算机是作为工具被提出来的，它能解决计算的问题，
+为什么会带来如此巨大的影响。</font>其实很简单，它的意义就在于它能做人之不可做，借助于强大的计算能力（不得不感叹用二极管信号表示运算的巧妙），它能将一系列看起来不可能完成的问题求解求出
+答案。我们不妨这样想，是否大多数的问题可以转化为数学问题，数学在我们这个世界中随处可见，大到你想要把航空飞机送上太空，小到
+你们学校食堂一天用掉多少盒饭，都可以转化为数学问题。但是极其复杂的运算过程和运算量会让人望而却步，而计算机就可以帮我们代劳，
+从而解放人类的劳动力。而人类世界的每一次科技进步都离不开生产力的解放，而计算机受其原理的限制，其解决问题的能力在不断提高，随
+着计算能力的进化其解决问题的规模数量级也在不断扩大，就有了无穷的想象空间。举例来说最近的元宇宙提出一个完全虚拟的世界就需要足
+够庞大的算力来实现。也就是说，如果一个问题可以被抽象为数学过程，那么需要考虑的不是这个问题能不能解决的问题，而考虑的是计算机
+算力足不足够解决的问题。这就展现了计算机作为一个工具的强大之处，过去，蒸汽机电力解放了人类，而现在，计算机会带给人类社会更大
+更快的科技革命。</font></p>
+<p><font size="4"><font color="aqua" size="3">我们怎么用好计算机？</font>前面说了计算机拥有人类大脑无可比拟的算力优势，但是也有一个致命缺陷，就是缺乏人类独有的理解能力，你很容易让计算机计算1+1=2.但是却无法让计算机明白一个香蕉加另一个香蕉=两个香蕉，那么这个过程就需要我们来代劳。而我们学习程序学习算法扮演的角色正是抽象问题形成数学模型并给出解放方案，然后“输入”进计算机求解得到答案。计算机的算力虽然很大但并不是无穷，这就衍生出另一个问题，如何更高效的利用计算机的算力？答案就是通过优化模型减少计算问题的复杂度，从而为计算机减负，一个问题有各种各样的算法，不同的算法优劣不同，如何匹配现实情况选择最合适的算法，这个问题交给我们来解决。
+总之，我认为的计算机专业就是培养在理解计算机底层运行原理之后，充分认识计算机的工作逻辑，并能利用计算机更快更好的处理现实中的复杂问题的能力。</font></p>
+<h1>三丶我的职业规划</h1>
+<hr />
+<h2>1.确定适合自己的方向（深造or就业）</h2>
+<p><font size="4">性格分析：个人性格属于热切奔放型，对新奇事物有强烈兴趣，喜好以创造性的思维解决问题，享受埋头苦干，从无到有过程。对工科尤其是技术痴迷，不具有艺术细胞，对音乐，绘画，舞蹈并不感冒，对机器运行，程序开发兴趣强烈。</font></p>
+<p><font size="4">现实分析：计算机的就业形式目前不错，但是仍然有着对就业者技能要求越来越严格的趋势，如果本科应届生找工作更有难度，而深造后研究生学历就业压力较小。</font></p>
+<p><font size="4">学历分析：个人认为计算机对学历的要求并不是太高，而且第一学历已经满足需求，对研究生学历提升的渴望度并不大。</font></p>
+<p><font size="4">挑战性：本科就业进入大厂（bat）难度大，但是也是磨练自己的机会。科研深造需要课业成绩十分优良，同样具有很大的难度，但个人更倾向于就业。</font></p>
+<p><font size="4">时间成本：就业能够更快接触企业工作，及早的进入社会，但起点相比研究生低，继续深造起点高，但毕业晚，学习时间成本高。</font></p>
+<p><font size="4">综合分析，如果条件允许，本人更倾向于本科直接就业（如果工作机会满足预期），届时能力不足就继续深造。</font></p>
+<h2>2.学业规划</h2>
+<p><font size="4">大一，大二专业课成绩必须优秀，能够实现在专业课上内容自学并领先于教学进度，在数学基础课程，计算机相关课程尤其是C语言方面打好基础，取得高分。
+其他专业课成绩由于教学难度不高，可以适当降低重心，但仍然要保证成绩在班级前列，总成绩保证居于班级前列。
+并且能够提前自学一部分课外内容，扎实编程基础，提高自身能力。</font></p>
+<h2>3.假期规划</h2>
+<p><font size="4">体育锻炼上坚持自身锻炼，拥有良好的身体素质。</font></p>
+<p><font size="4">技能培训上，自学java，c++，python等程序语言，借助寒假时间充实自身技能，争取能够做到熟练使用，进而能够有所精通。在学习顺序上规定为C.C++.java，Python。</font></p>
+<p><font size="4">英语方面，由于要准备大学四六级考试，所以早早以前进行听力词汇训练，。避免大二专业课时间紧张压力过大。</font></p>
+<h2>4.课外规划</h2>
+<p><font size="4">创新创业大赛：大一大二已经开始进行项目储备，进行大创项目，腾飞杯项目，挑战杯项目的创意准备阶段，并尽量让比赛项目贴近自身计算机专业，磨炼自身技能。</font></p>
+<p><font size="4">程序大赛：需要着重关注“蓝桥杯软件设计大赛”“大学生程序设计大赛”等计算机专业竞赛。</font></p>
+<p><font size="4">业余赛事：除了专业技能的提高，平日也要积极参加如辩论大赛的类似活动，因为这涉及个人素质的全方面培养，有利于提高我们的个人素养。</font></p>
+<p><font size="4">企业赛：关注各大企业的线下赛事，比如华为，阿里，腾讯的主办赛事，为了解企业文化，熟悉就业环境打下基础，更有认识各路领域大牛的有利于自己的职业发展。</font></p>
+<h2>5.进阶规划</h2>
+<p><font size="4">项目经历：在做到学业成绩优秀的基础上，积极联系课业老师，寻求能够进入实验室的机会，与师兄师姐们一起在实验室共事能够学到很多新知识。</font></p>
+<p><font size="4">编程能力：编程在于练习，在校时间抽空就进行编程训练。在开源平台上提供代码并能翻译代码，不断强化自己的编程能力。</font></p>
+<p><font size="4">实习机会：在大三大四抓紧机会寻找实习工作，一份良好的实习工作最能提升自己的工作水平，让能让我们理解理论知识和现实工作的差异，另外，实习经历对于之后的校园招聘是很大的加分项。</font></p>
+<h2>6.长期规划</h2>
+<p><font color="aqua" size="4">我的目标不是成为一个只负责基础代码工作的程序员，我想要成为一名嫩能够设计代码的高级工程师，思路清晰，高效简洁的处理问题是我的追求。</font></p>
+<h1>四丶计算机课程学习资源分享</h1>
+<hr />
+<table  border="1" >
+<tr>
+<td><img src="https://img1.baidu.com/it/u=2260995326,1115964523&fm=253&fmt=auto&app=138&f=PNG?w=500&h=511" width="100" hegiht="100" ></td> 
+<td  width="200" hegiht="100" >
+<a href="https://github.com/lib-pku/libpku" ><font size="3">北京大学计算机课程</font></a></td> 
+<td  width="200" hegiht="100" >
+<a href=" https://lib-pku.github.io/ " ><font size="3">清华大学计算机课程资源</font></a></td> 
+<td  width="200" hegiht="100" >
+<a href=" https://github.com/QSCTech/zju-icicles " ><font size="3">浙江大学计算机课程资源</font></a></td> 
+<tr>
+<td><img src="https://img2.baidu.com/it/u=269783895,1079880721&fm=253&fmt=auto&app=138&f=PNG?w=268&h=268" width="100" hegiht="100" ></td> 
+<td  width="200" hegiht="100" >
+<a href="https://www.bilibili.com/video/av4050443" ><font size="3">小甲鱼的零基础入门学习Python</font></a></td> 
+<td  width="200" hegiht="100" >
+<a href="https://www.bilibili.com/video/av21540971" ><font size="3"> Python数据结构与算法系列课程</font></a></td> 
+<td  width="200" hegiht="100" >
+<a href="https://www.bilibili.com/video/av9912938" ><font size="3"> 机器学习（Machine Learning）- 吴恩达（Andrew Ng）</font></a></td>
+<tr>
+<td><img src="https://img2.baidu.com/it/u=3784851952,183325285&fm=253&fmt=auto&app=120&f=JPEG?w=500&h=500" width="100" hegiht="100" ></td>
+<td  width="200" hegiht="100" >  
+<a href="https://www.coursera.org/learn/machine-learning" ><font size="3">机器学习大神Andrew Ng的课程</font></a></td> 
+<td  width="200" hegiht="100" >  
+<a href="https://zhuanlan.zhihu.com/p/453638263" ><font size="3">python全套学习目录整理</font></a></td> 
+<td  width="200" hegiht="100" >
+<a href="https://zhuanlan.zhihu.com/p/57515678" ><font size="3">最全中科大计算机学院课程资源</font></a></td> 
+<tr>
+<td><img src="https://img1.baidu.com/it/u=1779111883,2253172798&fm=253&fmt=auto&app=138&f=PNG?w=256&h=256" width="100" hegiht="100" ></td>
+<td  width="200" hegiht="100" >  
+<a href="https://blog.csdn.net/weixin_33257061/article/details/106512436?ops_request_misc=&request_id=&biz_id=102&utm_term=%E8%AE%A1%E7%AE%97%E6%9C%BA%E4%BA%8C%E7%BA%A7c++%E5%AD%A6%E4%B9%A0%E8%B5%84%E6%96%99&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~sobaiduweb~default-1-106512436.nonecase&spm=1018.2226.3001.4450" ><font size="3">视频教程-C++零基础入门</font></a></td>
+<td  width="200" hegiht="100" >   
+</div>
+</body>
+<html>
+
+<a href="https://blog.csdn.net/ityqing/article/details/82838524?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164285502216780357234975%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=164285502216780357234975&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~blog~top_positive~default-1-82838524.nonecase&utm_term=%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%8E%E7%AE%97%E6%B3%95&spm=1018.2226.3001.4450" ><font size="3">数据结构与算法学习笔记</font></a></td> 
+<td  width="200" hegiht="100" >   
+<a href="https://blog.csdn.net/chunfu7085/article/details/100678648?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522164285509116780261997949%2522%252C%2522scm%2522%253A%252220140713.130102334..%2522%257D&request_id=164285509116780261997949&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~top_ulrmf~default-1-100678648.pc_search_insert_ulrmf&utm_term=%E5%BE%AE%E4%BF%A1%E5%B0%8F%E7%A8%8B%E5%BA%8F%E9%A1%B9%E7%9B%AE%E5%AE%9E%E4%BE%8B&spm=1018.2226.3001.4187" ><font size="3">微信小程序项目实例</font></a></td> 
